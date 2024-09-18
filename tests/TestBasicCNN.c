@@ -25,7 +25,7 @@ void test_relu() {
     printf("ReLU test passed!\n");
 }
 
-int main() {
+int test_basic_cnn(int argc, char *argv[]) {
     test_relu();
     return 0;
 }

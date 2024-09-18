@@ -55,7 +55,7 @@ void relu(float input[OUTPUT_SIZE][OUTPUT_SIZE]) {
     }
 }
 
-int main() {
+int main(void) {
     float input[INPUT_SIZE][INPUT_SIZE] = { /* Initialize with your input data */ };
     float output[OUTPUT_SIZE][OUTPUT_SIZE];
     Filter filter;
