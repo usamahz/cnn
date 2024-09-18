@@ -1,4 +1,5 @@
 # CNN in C
+![Build Status](https://github.com/usamahz/cnn/actions/workflows/ci.yml/badge.svg)
 
 This project implements a simple Convolutional Neural Network (CNN) in C from scratch.
 
