@@ -3,6 +3,7 @@
 
 # Ignore the compiled executable
 BasicCNN
+run_tests
 
 # Ignore any files in the build directory (if you decide to use one)
 build/
