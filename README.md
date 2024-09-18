@@ -3,6 +3,8 @@
 
 This project implements a simple Convolutional Neural Network (CNN) in C from scratch.
 
+![CNN Flow Diagram](assets/flow.png)
+
 A convolutional layer with a subsequent Rectified Linear Unit (ReLU) activation. This structure forms the cornerstone of many sophisticated image processing and computer vision systems.
 
 ## Structure
