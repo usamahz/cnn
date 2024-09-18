@@ -1,6 +1,6 @@
-# CNN Project
+# CNN in C
 
-This project implements a simple Convolutional Neural Network (CNN) in C.
+This project implements a simple Convolutional Neural Network (CNN) in C from scratch.
 
 ## Structure
 
@@ -36,29 +36,18 @@ make test
 cnn_project/
     │
     ├── src/                     # Source files
-    │   ├── BasicCNN.c               # Main CNN implementation
-    │   └── Utils.c             # Utility functions (if needed)
+    │   ├── BasicCNN.c           # Main CNN implementation
+    │   └── Utils.c              # Utility functions (if needed)
     │
     ├── include/                 # Header files
-    │   ├── BasicCNN.h               # Header for CNN functions
-    │   └── Utils.h             # Header for utility functions
-    │
-    
-    cnn_project/
-    │
-    ├── src/                     # Source files
-    │   ├── BasicCNN.c               # Main CNN implementation
-    │   └── Utils.c             # Utility functions (if needed)
-    │
-    ├── include/                 # Header files
-    │   ├── BasicCNN.h               # Header for CNN functions
-    │   └── Utils.h             # Header for utility functions
+    │   ├── BasicCNN.h           # Header for CNN functions
+    │   └── Utils.h              # Header for utility functions
     │
     ├── data/                    # Input data files
-    │   └── input_data.txt      # Example input data file
+    │   └── InputData.txt        # Example input data file
     │
     ├── tests/                   # Test files
-    │   └── test_cnn.c          # Unit tests for CNN functions
+    │   └── TestBasicCNN.c       # Unit tests for CNN functions
     │
     ├── Makefile                 # Build script
     │
